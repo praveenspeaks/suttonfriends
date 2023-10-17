@@ -1,2 +1,0 @@
-# suttonfriends
-app

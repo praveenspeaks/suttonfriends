@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SFScanner</string>
+    <string name="title_activity_main">SFScanner</string>
+    <string name="package_name">org.sutton.friends.scanner</string>
+    <string name="custom_url_scheme">org.sutton.friends.scanner</string>
+</resources>

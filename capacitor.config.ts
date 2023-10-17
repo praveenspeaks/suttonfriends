@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'suttonfriends',
+  appId: 'org.sutton.friends.scanner',
+  appName: 'SFScanner',
   webDir: 'www',
   server: {
     androidScheme: 'https'
